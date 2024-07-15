@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/b76a6f39-bb48-4830-b739-2490b653ad05" alt="Screenshot_6">
 </p>
 
-## At BlockHub, we are dedicated to advancing blockchain ecosystems and promoting decentralization, driving growth and spearheading technological innovation.
+## At Timeless, we are dedicated to advancing blockchain ecosystems and promoting decentralization, driving growth and spearheading technological innovation.
 
 # Connect with us
 
